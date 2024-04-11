@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/aDnCKuA.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Whatsapp2Discord</h3>
+  <h3 align="center">Project What'sUp</h3>
 
   <p align="center">
     W2D is a bot that make a bridge between Whatsapp & Discord and makes it easy to use both whatsapp and discord easily at same time for the user, 
