@@ -68,13 +68,13 @@ To get a local copy up and running follow these simple example steps.
 
 8.) Go to that channel and scan the QR code and link your whatsapp number to the bot. then yeah you are done
 
-   If you need more help with commands check out bot [documentation](https://youtube.com)
+   If you need more help with commands check out bot [documentation](https://discord.gg/xxrxwTu9F4)
 
 ## Usage
 
 Go to `control-room` and scan QR code and connect with your whatsapp number, then you can use commands to open a chat or configure your bot.
 
-Check out all commands [here](https://youtube.com)
+Check out all commands [here](https://discord.gg/xxrxwTu9F4)
 
 ### Creating A Pull Request
 
