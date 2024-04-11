@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/lyrocodes/W2D/total) ![Contributors](https://img.shields.io/github/contributors/lyrocodes/W2D?color=dark-green) ![Forks](https://img.shields.io/github/forks/lyrocodes/W2D?style=social) ![Stargazers](https://img.shields.io/github/stars/lyrocodes/W2D?style=social) ![Issues](https://img.shields.io/github/issues/lyrocodes/W2D) ![License](https://img.shields.io/github/license/lyrocodes/W2D) 
+
 
 ## About The Project
 
