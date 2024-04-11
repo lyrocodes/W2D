@@ -1,0 +1,30 @@
+{
+  "name": "w2d",
+  "version": "1.0.0",
+  "description": "W2D is a Discord bot that uses WhatsApp Web as a bridge between Discord and WhatsApp",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "docs": "docsify serve docs"
+  },
+  "author": "LyroCodes",
+  "repository": "https://github.com/lyrocodes/W2D",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^6.4.1",
+    "discord.js": "^13.16.0",
+    "pino": "^8.14.1",
+    "pkg-fetch": "^3.5.2",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "esbuild": "0.17.14",
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "pkg": "^5.8.1",
+    "prettier": "^2.8.8"
+  }
+}
